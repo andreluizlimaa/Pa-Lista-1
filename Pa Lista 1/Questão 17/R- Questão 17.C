@@ -36,6 +36,7 @@ int main(){
 
     for(int i=0;i< tv;i++){
         printf(" %d", v3[i]);
+        
     }
     return 0;
 }
