@@ -20,6 +20,7 @@ void mult_m(int** A,int** B,int** C,int nl,int ncA,int ncB){
 
 int main(){
 
+
     int **A, **B, **C;
     int nl = 2, ncA=2, ncB=2;
 
