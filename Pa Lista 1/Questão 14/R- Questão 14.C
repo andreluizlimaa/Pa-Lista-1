@@ -14,6 +14,7 @@ int Comparar_valores(const void *v1,const void *v2){
 
 
 int main(){
+    
 int n;
 /*Irá receber o valor responsável pelo tamanho do vetor.*/
 printf("Digite o tamanho do vetor para receber os dados: ");
