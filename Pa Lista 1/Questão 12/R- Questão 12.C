@@ -9,6 +9,7 @@ escreva um pequeno programa exemplificando o uso deste recurso. */
 
 void func(int a){
     printf("Valor do a: %d ",a );
+    
 }
 
 
