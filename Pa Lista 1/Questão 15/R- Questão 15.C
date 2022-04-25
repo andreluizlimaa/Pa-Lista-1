@@ -23,6 +23,7 @@ void my_qsort(int vr[],size_t numb,int (*Cv)(const void*,const void*)){
                  ax = vr[j];
                 vr[j] = vr[j-1];
                  vr[j-1]= ax ;
+                 
             }
 
         }
