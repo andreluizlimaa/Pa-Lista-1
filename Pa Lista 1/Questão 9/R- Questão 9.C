@@ -9,6 +9,7 @@ printf("x+3 = %d",x+3);//4095
 }
 
 int main(){
+  
   int x[4];
   x[0] = 4092;
 printf("x+1 = %d\n",x+1);//4094
