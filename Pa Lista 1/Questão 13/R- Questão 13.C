@@ -10,6 +10,7 @@ float g;
                 g = vr[j-1];
                 vr[j-1]= vr[j];
                 vr[j] = g;
+                
             }
 
         }
