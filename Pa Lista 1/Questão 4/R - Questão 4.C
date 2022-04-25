@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+  
   int valor;
   int *p1;
   float temp;
